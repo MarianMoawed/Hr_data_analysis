@@ -79,7 +79,11 @@ Employees need to see a clear path to promotion so they feel their efforts are r
 
 ## Dashboard Preview
 
-> *(Add screenshots of your Power BI dashboard pages here)*
+![Attrition Analysis](images/Screenshot 2026-05-20 035634.png)
+![Employee Overview](images/Screenshot 2026-05-20 035651.png)
+![Career Growth](images/Screenshot 2026-05-20 035937.png)
+![Satisfaction & Workload](images/Screenshot 2026-05-20 040003.png)
+![Risk Factors](images/Screenshot 2026-05-20 040026.png)
 
 **Pages:**
 - Attrition Analysis
